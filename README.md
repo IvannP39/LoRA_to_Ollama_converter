@@ -29,7 +29,9 @@ Application GUI permettant de convertir facilement vos modèles LoRA fine-tuned 
 - Le téléchargement automatique des modèles de base depuis HuggingFace
 - L'enregistrement du modèle dans Ollama
 
-![Image de l'interface](Images/gui.png)
+<p align="center">
+  <img src="Images/gui.png" alt="Image de l'interface" width="600">
+</p>
 
 ## Fonctionnalités
 
@@ -372,9 +374,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Voici un exemple de conversion et de test avec un fine-tuning QLoRA sur `Llama-3-8B-instruct-bnb-4bit` avec un tout petit dataset d'une cinquantaine de messages. L'objectif du modèle est de définir le label du mail passé en prompt :
 
-![Extrait du dataset](Images/extrait_dataset.png)
-![Test du modèle](Images/ollama_test_model.png)
-![Test du modèle](Images/ollama_test_model_2.png)
+
+<p align="center">
+  <img src="Images/extrait_dataset.png" alt="Extrait du dataset" width="300">
+  <img src="Images/ollama_test_model.png" alt="Test du modèle" width="300">
+  <img src="Images/ollama_test_model_2.png" alt="Test du modèle" width="300">
+</p>
 
 ## Auteur
 
