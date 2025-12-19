@@ -91,8 +91,8 @@ L'application utilise uniquement des bibliothèques standard Python :
 ### 1. Cloner ou télécharger le projet
 
 ```bash
-git clone https://github.com/votre-username/Use_LoRA_GUI.git
-cd Use_LoRA_GUI
+git clone https://github.com/IvannP39/LoRA_to_Ollama_converter.git
+cd LoRA_to_Ollama_converter
 ```
 
 Ou téléchargez simplement le fichier `Lora_to_Ollama.py`.
