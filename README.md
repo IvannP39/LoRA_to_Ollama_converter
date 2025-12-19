@@ -376,8 +376,12 @@ Voici un exemple de conversion et de test avec un fine-tuning QLoRA sur `Llama-3
 
 
 <p align="center">
-  <img src="Images/extrait_dataset.png" alt="Extrait du dataset" width="300">
+  <img src="Images/extrait_dataset.png" alt="Extrait du dataset" width="400">
+</p>
+<p align="center">
   <img src="Images/ollama_test_model.png" alt="Test du modèle" width="300">
+</p>
+<p align="center">
   <img src="Images/ollama_test_model_2.png" alt="Test du modèle" width="300">
 </p>
 
