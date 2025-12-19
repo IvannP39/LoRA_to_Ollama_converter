@@ -168,7 +168,7 @@ class LoraToOllamaApp:
     def __init__(self, root):
         self.root = root
         self.root.title("🦙 LoRA to Ollama Converter")
-        self.root.geometry("900x850")
+        self.root.geometry("740x600")
         self.root.configure(bg=COLORS["bg_dark"])
         self.root.resizable(True, True)
         
