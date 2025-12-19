@@ -192,7 +192,7 @@ python3 Lora_to_Ollama.py
 
 #### 6. Conversion
 
-1. Cliquez sur **🚀 Convertir et Créer le Modèle**
+1. Cliquez sur **Convertir et Créer le Modèle**
 2. Suivez la progression dans les logs
 3. Une fois terminé, testez votre modèle :
    ```bash
@@ -381,8 +381,10 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
+PS : Ce projet a été "vibe-codé" comme disent les jeuns.
+
 <div align="center">
 
-** Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ! **
+**Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !**
 
 </div>
