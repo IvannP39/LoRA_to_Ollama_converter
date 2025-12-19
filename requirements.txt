@@ -1,0 +1,3 @@
+# LoRA to Ollama Converter - Requirements
+# Toutes les dépendances sont des bibliothèques standard Python
+# Aucune installation pip n'est nécessaire sur la plupart des systèmes
